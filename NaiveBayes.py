@@ -145,4 +145,4 @@ for i in range(n_test):
 
 print(len_words_list)
 print(pre_me)
-# print(predict_sklearn)
+# print(pre_sklearn)
